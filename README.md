@@ -1,4 +1,12 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=GGGeralt&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GGGeralt"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GGGeralt"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GGGeralt&repo=Stronghold"/>
+
 
 <!--
 **GGGeralt/GGGeralt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
