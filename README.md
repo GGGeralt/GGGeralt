@@ -1,11 +1,15 @@
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=GGGeralt&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GGGeralt"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GGGeralt"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GGGeralt&repo=Stronghold"/>
+### 🔓
+### I'm Bartek(GGGeralt)
+### 
+### <img src="https://github-readme-stats.vercel.app/api?username=GGGeralt&show_icons=true&theme=dark"/>
+---
+### 🔒
+### I'm currently learning in University of Lodz🎓
+### I'm focusing mostly on 🎇C#(Unity)🎇
+### And in my free time I like to have fun with it💻
+---
+### There are also university projects like:
+### <img src="https://github-readme-stats.vercel.app/api/pin/?username=GGGeralt&repo=IoT-Project"/>
 
 
 <!--
